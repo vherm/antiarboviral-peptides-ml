@@ -1,0 +1,16 @@
+project:
+  matrix: Matriz_Experimental_Maestra_AntiArboviral.xlsx
+  manifest: datasets_manifest.csv
+  output: resultados
+validation:
+  n_splits: 5
+  n_repeats: 5
+  inner_splits: 3
+  seed: 42
+execution:
+  search_mode: none
+  n_iter: 20
+  n_jobs: -1
+  resume: true
+  save_models: false
+  update_matrix_copy: true

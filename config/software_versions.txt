@@ -1,0 +1,15 @@
+Software versions
+=================
+Python: 3.9.21
+Platform: Linux-7.0.0-22-generic-x86_64-with-glibc2.43
+
+numpy: 1.26.4
+pandas: 2.3.1
+sklearn: 1.6.1
+scipy: 1.13.1
+xgboost-cpu: 2.1.4
+matplotlib: 3.9.4
+openpyxl: 3.1.5
+fpdf: 1.7.2
+shap: 0.48.0
+joblib: 1.5.1
